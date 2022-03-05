@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaquetti 
-- 👀 I’m interested in computer vision and mobile robotics
+- 👀 I’m interested in computer vision, mobile robotics and reinforcement learning
 - 🌱 I’m currently learning SLAM 
 - 💞️ I’m looking to collaborate in mobile robotics algorithms
 - 📫 How to reach me https://www.linkedin.com/in/pedro-felipe-jaquetti-951b8416a/
